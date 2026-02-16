@@ -1,44 +1,3 @@
-{"ts": "2025-10-15T07:05:26.033872+00:00", "user": "admin", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-10-15T07:05:35.899616+00:00", "user": "mateootero", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-10-15T07:05:42.748000+00:00", "user": "mateootero", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-10-15T07:05:46.543658+00:00", "user": "admin", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-10-15T07:06:23Z | admin | USER_CREATE username=luismadera role=supervisor | 
-2025-10-15T07:08:03Z | admin | USER_CREATE username=arielortigoza role=admin | 
-2025-10-15T07:08:25Z | admin | USER_UPDATE username=mateootero role=user active=False | 
-2025-10-15T07:08:37Z | admin | USER_UPDATE username=mateootero role=user active=True | 
-2025-10-15T07:09:15Z | admin | USER_CREATE username=josesomoza role=supervisor | 
-{"ts": "2025-10-15T07:09:21.102082+00:00", "user": "admin", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-10-15T07:09:36.630791+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-10-15T07:09:47Z | arielortigoza | USER_DELETE username=admin | 
-{"ts": "2025-10-15T07:09:57.053916+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-10-15T07:10:10.218423+00:00", "user": "luismadera", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-10-15T07:11:27Z | luismadera | CSV_SAVE day=2025-10-14 mode=append rows=8938 file=cdr_2025-10-14.csv | 
-{"ts": "2025-10-15T07:11:57.902306+00:00", "user": "luismadera", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-10-15T07:12:15.965304+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-10-15T07:12:46Z | arielortigoza | CSV_SAVE day=2025-10-14 mode=append rows=16698 file=cdr_2025-10-14.csv | 
-2025-10-15T07:13:39Z | arielortigoza | CSV_SAVE day=2025-10-14 mode=append rows=16698 file=cdr_2025-10-14.csv | 
-{"ts": "2025-10-15T07:14:02.400059+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-10-15T07:14:12.498613+00:00", "user": "luismadera", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-10-15T07:16:44Z | luismadera | CSV_SAVE day=2025-09-01 mode=append rows=19206 file=cdr_2025-09-01.csv | 
-2025-10-15T07:16:44Z | luismadera | CSV_SAVE day=2025-09-02 mode=append rows=15134 file=cdr_2025-09-02.csv | 
-2025-10-15T07:16:44Z | luismadera | CSV_SAVE day=2025-09-03 mode=append rows=16258 file=cdr_2025-09-03.csv | 
-2025-10-15T07:16:44Z | luismadera | CSV_SAVE day=2025-09-04 mode=append rows=12880 file=cdr_2025-09-04.csv | 
-2025-10-15T07:16:44Z | luismadera | CSV_SAVE day=2025-09-05 mode=append rows=11386 file=cdr_2025-09-05.csv | 
-2025-10-15T07:16:44Z | luismadera | CSV_SAVE day=2025-09-06 mode=append rows=306 file=cdr_2025-09-06.csv | 
-2025-10-15T07:16:44Z | luismadera | CSV_SAVE day=2025-09-07 mode=append rows=42 file=cdr_2025-09-07.csv | 
-{"ts": "2025-10-15T07:18:27.254711+00:00", "user": "luismadera", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-10-15T07:18:43.479510+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-10-15T07:19:37Z | arielortigoza | CSV_SAVE day=2025-09-01 mode=append rows=19206 file=cdr_2025-09-01.csv | 
-2025-10-15T07:19:37Z | arielortigoza | CSV_SAVE day=2025-09-02 mode=append rows=15134 file=cdr_2025-09-02.csv | 
-2025-10-15T07:19:37Z | arielortigoza | CSV_SAVE day=2025-09-03 mode=append rows=16258 file=cdr_2025-09-03.csv | 
-2025-10-15T07:19:37Z | arielortigoza | CSV_SAVE day=2025-09-04 mode=append rows=12880 file=cdr_2025-09-04.csv | 
-2025-10-15T07:19:38Z | arielortigoza | CSV_SAVE day=2025-09-05 mode=append rows=11386 file=cdr_2025-09-05.csv | 
-2025-10-15T07:19:38Z | arielortigoza | CSV_SAVE day=2025-09-06 mode=append rows=306 file=cdr_2025-09-06.csv | 
-2025-10-15T07:19:38Z | arielortigoza | CSV_SAVE day=2025-09-07 mode=append rows=42 file=cdr_2025-09-07.csv | 
-{"ts": "2025-10-15T11:33:40.295067+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-10-15T11:34:30.391061+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-10-15T11:44:43.588005+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-10-15T11:44:51.233191+00:00", "user": "luismadera", "action": "LOGIN", "category": "auth", "meta": {}}
 2025-10-15T11:48:23Z | luismadera | CSV_SAVE day=2025-09-08 mode=append rows=11142 file=cdr_2025-09-08.csv | 
 2025-10-15T11:48:23Z | luismadera | CSV_SAVE day=2025-09-09 mode=append rows=12428 file=cdr_2025-09-09.csv | 
 2025-10-15T11:48:23Z | luismadera | CSV_SAVE day=2025-09-10 mode=append rows=12128 file=cdr_2025-09-10.csv | 
@@ -998,3 +957,44 @@
 2026-02-13T12:09:10Z | arielortigoza | CSV_SAVE day=2026-02-13 mode=append rows=2396 file=cdr_2026-02-13.csv | 
 2026-02-13T12:09:10Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-13.csv -> cdr_2026-02-13.csv: +2394 nuevos, 2 duplicados | 
 {"ts": "2026-02-13T12:10:07.349750+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T08:21:13.161924+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+2026-02-16T08:23:02Z | arielortigoza | CSV_SAVE day=2026-02-13 mode=append rows=11427 file=cdr_2026-02-13.csv | 
+2026-02-16T08:23:03Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-16.csv -> cdr_2026-02-13.csv: +6637 nuevos, 4790 duplicados | 
+2026-02-16T08:23:03Z | arielortigoza | CSV_SAVE day=2026-02-14 mode=append rows=593 file=cdr_2026-02-14.csv | 
+2026-02-16T08:23:03Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-16.csv -> cdr_2026-02-14.csv: +593 nuevos, 0 duplicados | 
+2026-02-16T08:23:03Z | arielortigoza | CSV_SAVE day=2026-02-15 mode=append rows=40 file=cdr_2026-02-15.csv | 
+2026-02-16T08:23:03Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-16.csv -> cdr_2026-02-15.csv: +40 nuevos, 0 duplicados | 
+2026-02-16T08:23:03Z | arielortigoza | CSV_SAVE day=2026-02-16 mode=append rows=123 file=cdr_2026-02-16.csv | 
+2026-02-16T08:23:03Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-16.csv -> cdr_2026-02-16.csv: +123 nuevos, 0 duplicados | 
+2026-02-16T08:33:54Z | arielortigoza | CSV_SAVE day=2026-02-12 mode=append rows=11748 file=cdr_2026-02-12.csv | 
+2026-02-16T08:33:54Z | arielortigoza | ARCHIVO_CARGADO | data.csv -> cdr_2026-02-12.csv: +716 nuevos, 11032 duplicados | 
+2026-02-16T08:33:54Z | arielortigoza | CSV_SAVE day=2026-02-13 mode=append rows=5822 file=cdr_2026-02-13.csv | 
+2026-02-16T08:33:54Z | arielortigoza | ARCHIVO_CARGADO | data.csv -> cdr_2026-02-13.csv: +5816 nuevos, 6 duplicados | 
+2026-02-16T08:33:54Z | arielortigoza | CSV_SAVE day=2026-02-14 mode=append rows=316 file=cdr_2026-02-14.csv | 
+2026-02-16T08:33:54Z | arielortigoza | ARCHIVO_CARGADO | data.csv -> cdr_2026-02-14.csv: +316 nuevos, 0 duplicados | 
+2026-02-16T08:33:54Z | arielortigoza | CSV_SAVE day=2026-02-16 mode=append rows=63 file=cdr_2026-02-16.csv | 
+2026-02-16T08:33:54Z | arielortigoza | ARCHIVO_CARGADO | data.csv -> cdr_2026-02-16.csv: +63 nuevos, 0 duplicados | 
+{"ts": "2026-02-16T08:41:37.049390+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T09:59:50.278122+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T10:02:21.348236+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T10:02:27.386630+00:00", "user": "tomasservitad", "action": "LOGIN", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T10:02:58.831846+00:00", "user": "tomasservitad", "action": "LOGOUT", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T11:22:32.771863+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T11:30:01.263419+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T11:38:09.609902+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T11:38:38.406030+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T11:41:20.485345+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T11:46:37.007713+00:00", "user": "arielortigoza", "action": "SESSION_TIMEOUT", "category": "auth", "meta": {"reason": "session_timeout"}}
+{"ts": "2026-02-16T11:46:46.970020+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T11:47:03.063079+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T11:47:17.428149+00:00", "user": "tomasservitad", "action": "LOGIN", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T11:47:31.679269+00:00", "user": "tomasservitad", "action": "LOGOUT", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T11:47:36.980900+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+2026-02-16T11:47:59Z | arielortigoza | USER_UPDATE username=arielortigoza role=admin active=True | 
+2026-02-16T11:48:18Z | arielortigoza | USER_UPDATE username=arielortigoza role=admin active=True | 
+{"ts": "2026-02-16T11:48:20.385744+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T11:48:26.508399+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T11:48:33.059879+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T12:51:01.782104+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T12:51:15.351642+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
+{"ts": "2026-02-16T13:01:02.654440+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
