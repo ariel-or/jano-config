@@ -1,0 +1,432 @@
+2026-02-12T15:47:51Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T15:47:51Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-12T15:47:51Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T15:47:51Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-12T15:47:51Z | OK       | SERVICES        | jano: activo | MainPID=972, ActiveEnterTimestamp=Thu 2026-02-12 12:37:53 UTC
+2026-02-12T15:47:51Z | OK       | SERVICES        | nginx: activo | MainPID=1101, ActiveEnterTimestamp=Thu 2026-02-12 12:37:58 UTC
+2026-02-12T15:47:51Z | INFO     | DIRS            | Verificando directorios...
+2026-02-12T15:47:51Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-12T15:47:51Z | WARNING  | DIRS            | data | mode=755 (esperado: 750)
+2026-02-12T15:47:51Z | WARNING  | DIRS            | oasip | mode=755 (esperado: 750)
+2026-02-12T15:47:51Z | WARNING  | DIRS            | voipmonitor | mode=755 (esperado: 750)
+2026-02-12T15:47:51Z | WARNING  | DIRS            | users | mode=777 (esperado: 750)
+2026-02-12T15:47:51Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-12T15:47:51Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-12T15:47:51Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-12T15:47:51Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-12T15:47:51Z | OK       | FILES           | users.json | Válido, 1958 bytes
+2026-02-12T15:47:51Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-12T15:47:51Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-12T15:47:51Z | OK       | FILES           | jano | 605 bytes
+2026-02-12T15:47:51Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-12T15:47:51Z | OK       | DATABASE        | users.json | 6 usuarios, 3 admins
+2026-02-12T15:47:51Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-12T15:47:51Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 5.4GB, Usado: 70.8%
+2026-02-12T15:47:51Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-12T15:47:52Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.4)
+2026-02-12T15:47:52Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-12T15:47:52Z | WARNING  | HEALTHCHECK     | RESULTADO: Hay advertencias
+2026-02-12T15:47:52Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T15:47:55Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T15:47:55Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-12T15:47:55Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T15:47:55Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-12T15:47:55Z | OK       | SERVICES        | jano: activo | MainPID=1834, ActiveEnterTimestamp=Thu 2026-02-12 15:47:53 UTC
+2026-02-12T15:47:55Z | OK       | SERVICES        | nginx: activo | MainPID=1101, ActiveEnterTimestamp=Thu 2026-02-12 12:37:58 UTC
+2026-02-12T15:47:55Z | INFO     | DIRS            | Verificando directorios...
+2026-02-12T15:47:55Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-12T15:47:55Z | WARNING  | DIRS            | data | mode=755 (esperado: 750)
+2026-02-12T15:47:55Z | WARNING  | DIRS            | oasip | mode=755 (esperado: 750)
+2026-02-12T15:47:55Z | WARNING  | DIRS            | voipmonitor | mode=755 (esperado: 750)
+2026-02-12T15:47:55Z | WARNING  | DIRS            | users | mode=777 (esperado: 750)
+2026-02-12T15:47:55Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-12T15:47:55Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-12T15:47:55Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-12T15:47:55Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-12T15:47:55Z | OK       | FILES           | users.json | Válido, 1958 bytes
+2026-02-12T15:47:55Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-12T15:47:55Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-12T15:47:55Z | OK       | FILES           | jano | 605 bytes
+2026-02-12T15:47:55Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-12T15:47:55Z | OK       | DATABASE        | users.json | 6 usuarios, 3 admins
+2026-02-12T15:47:55Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-12T15:47:55Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 5.4GB, Usado: 70.9%
+2026-02-12T15:47:55Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-12T15:47:55Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.4)
+2026-02-12T15:47:55Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-12T15:47:55Z | WARNING  | HEALTHCHECK     | RESULTADO: Hay advertencias
+2026-02-12T15:47:55Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:03:21Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:03:21Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-12T16:03:21Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:03:21Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-12T16:03:21Z | OK       | SERVICES        | jano: activo | MainPID=2367, ActiveEnterTimestamp=Thu 2026-02-12 16:03:18 UTC
+2026-02-12T16:03:21Z | OK       | SERVICES        | nginx: activo | MainPID=1101, ActiveEnterTimestamp=Thu 2026-02-12 12:37:58 UTC
+2026-02-12T16:03:21Z | INFO     | DIRS            | Verificando directorios...
+2026-02-12T16:03:21Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-12T16:03:21Z | WARNING  | DIRS            | data | mode=755 (esperado: 750)
+2026-02-12T16:03:21Z | WARNING  | DIRS            | oasip | mode=755 (esperado: 750)
+2026-02-12T16:03:21Z | WARNING  | DIRS            | voipmonitor | mode=755 (esperado: 750)
+2026-02-12T16:03:21Z | WARNING  | DIRS            | users | mode=777 (esperado: 750)
+2026-02-12T16:03:21Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-12T16:03:21Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-12T16:03:21Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-12T16:03:21Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-12T16:03:21Z | OK       | FILES           | users.json | Válido, 1958 bytes
+2026-02-12T16:03:21Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-12T16:03:21Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-12T16:03:21Z | OK       | FILES           | jano | 605 bytes
+2026-02-12T16:03:21Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-12T16:03:21Z | OK       | DATABASE        | users.json | 6 usuarios, 3 admins
+2026-02-12T16:03:21Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-12T16:03:21Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 5.4GB, Usado: 70.9%
+2026-02-12T16:03:21Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-12T16:03:21Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.4)
+2026-02-12T16:03:21Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-12T16:03:21Z | WARNING  | HEALTHCHECK     | RESULTADO: Hay advertencias
+2026-02-12T16:03:21Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:03:21Z | INFO     | GIT-PUSH        | Subiendo logs a GitHub...
+2026-02-12T16:03:21Z | WARNING  | GIT-PUSH        | Falló | Error en push: error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/ar
+2026-02-12T16:39:00Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:39:00Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-12T16:39:00Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:39:00Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-12T16:39:00Z | OK       | SERVICES        | jano: activo | MainPID=2680, ActiveEnterTimestamp=Thu 2026-02-12 16:38:58 UTC
+2026-02-12T16:39:00Z | OK       | SERVICES        | nginx: activo | MainPID=1101, ActiveEnterTimestamp=Thu 2026-02-12 12:37:58 UTC
+2026-02-12T16:39:00Z | INFO     | DIRS            | Verificando directorios...
+2026-02-12T16:39:00Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-12T16:39:00Z | WARNING  | DIRS            | data | mode=755 (esperado: 750)
+2026-02-12T16:39:00Z | WARNING  | DIRS            | oasip | mode=755 (esperado: 750)
+2026-02-12T16:39:00Z | WARNING  | DIRS            | voipmonitor | mode=755 (esperado: 750)
+2026-02-12T16:39:00Z | WARNING  | DIRS            | users | mode=777 (esperado: 750)
+2026-02-12T16:39:00Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-12T16:39:00Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-12T16:39:00Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-12T16:39:00Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-12T16:39:00Z | OK       | FILES           | users.json | Válido, 1958 bytes
+2026-02-12T16:39:00Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-12T16:39:00Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-12T16:39:00Z | OK       | FILES           | jano | 605 bytes
+2026-02-12T16:39:00Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-12T16:39:00Z | OK       | DATABASE        | users.json | 6 usuarios, 3 admins
+2026-02-12T16:39:00Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-12T16:39:00Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 5.4GB, Usado: 70.9%
+2026-02-12T16:39:00Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-12T16:39:00Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.3)
+2026-02-12T16:39:00Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-12T16:39:00Z | WARNING  | HEALTHCHECK     | RESULTADO: Hay advertencias
+2026-02-12T16:39:00Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:39:00Z | INFO     | GIT-PUSH        | Subiendo logs a GitHub...
+2026-02-12T16:39:00Z | WARNING  | GIT-PUSH        | Falló | Error en push: error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/ar
+2026-02-12T16:39:15Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:39:15Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-12T16:39:15Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:39:15Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-12T16:39:15Z | OK       | SERVICES        | jano: activo | MainPID=2680, ActiveEnterTimestamp=Thu 2026-02-12 16:38:58 UTC
+2026-02-12T16:39:15Z | OK       | SERVICES        | nginx: activo | MainPID=1101, ActiveEnterTimestamp=Thu 2026-02-12 12:37:58 UTC
+2026-02-12T16:39:15Z | INFO     | DIRS            | Verificando directorios...
+2026-02-12T16:39:15Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-12T16:39:15Z | WARNING  | DIRS            | data | mode=755 (esperado: 750)
+2026-02-12T16:39:15Z | WARNING  | DIRS            | oasip | mode=755 (esperado: 750)
+2026-02-12T16:39:15Z | WARNING  | DIRS            | voipmonitor | mode=755 (esperado: 750)
+2026-02-12T16:39:15Z | WARNING  | DIRS            | users | mode=777 (esperado: 750)
+2026-02-12T16:39:15Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-12T16:39:15Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-12T16:39:15Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-12T16:39:15Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-12T16:39:15Z | OK       | FILES           | users.json | Válido, 1958 bytes
+2026-02-12T16:39:15Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-12T16:39:15Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-12T16:39:15Z | OK       | FILES           | jano | 605 bytes
+2026-02-12T16:39:15Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-12T16:39:15Z | OK       | DATABASE        | users.json | 6 usuarios, 3 admins
+2026-02-12T16:39:15Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-12T16:39:15Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 5.4GB, Usado: 70.9%
+2026-02-12T16:39:15Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-12T16:39:15Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.3)
+2026-02-12T16:39:15Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-12T16:39:15Z | WARNING  | HEALTHCHECK     | RESULTADO: Hay advertencias
+2026-02-12T16:39:15Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:39:15Z | INFO     | GIT-PUSH        | Subiendo logs a GitHub...
+2026-02-12T16:39:15Z | WARNING  | GIT-PUSH        | Falló | Error en push: error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/ar
+2026-02-12T16:59:56Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:59:56Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-12T16:59:56Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:59:56Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-12T16:59:56Z | OK       | SERVICES        | jano: activo | MainPID=2680, ActiveEnterTimestamp=Thu 2026-02-12 16:38:58 UTC
+2026-02-12T16:59:56Z | OK       | SERVICES        | nginx: activo | MainPID=1101, ActiveEnterTimestamp=Thu 2026-02-12 12:37:58 UTC
+2026-02-12T16:59:56Z | INFO     | DIRS            | Verificando directorios...
+2026-02-12T16:59:56Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-12T16:59:56Z | OK       | DIRS            | data | owner=jano, group=jano, mode=750
+2026-02-12T16:59:56Z | OK       | DIRS            | oasip | owner=jano, group=jano, mode=750
+2026-02-12T16:59:56Z | OK       | DIRS            | voipmonitor | owner=jano, group=jano, mode=750
+2026-02-12T16:59:56Z | OK       | DIRS            | users | owner=jano, group=jano, mode=750
+2026-02-12T16:59:56Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-12T16:59:56Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-12T16:59:56Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-12T16:59:56Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-12T16:59:56Z | OK       | FILES           | users.json | Válido, 1958 bytes
+2026-02-12T16:59:56Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-12T16:59:56Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-12T16:59:56Z | OK       | FILES           | jano | 605 bytes
+2026-02-12T16:59:56Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-12T16:59:56Z | OK       | DATABASE        | users.json | 6 usuarios, 3 admins
+2026-02-12T16:59:56Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-12T16:59:56Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 5.4GB, Usado: 70.9%
+2026-02-12T16:59:56Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-12T16:59:56Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.3)
+2026-02-12T16:59:56Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-12T16:59:56Z | OK       | HEALTHCHECK     | RESULTADO: Todo correcto
+2026-02-12T16:59:56Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T16:59:56Z | INFO     | GIT-PUSH        | Subiendo logs a GitHub...
+2026-02-12T16:59:56Z | WARNING  | GIT-PUSH        | Falló | Error en push: error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/ar
+2026-02-12T23:00:57Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T23:00:57Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-12T23:00:57Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T23:00:57Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-12T23:00:57Z | OK       | SERVICES        | jano: activo | MainPID=3482, ActiveEnterTimestamp=Thu 2026-02-12 18:31:17 UTC
+2026-02-12T23:00:57Z | OK       | SERVICES        | nginx: activo | MainPID=1101, ActiveEnterTimestamp=Thu 2026-02-12 12:37:58 UTC
+2026-02-12T23:00:57Z | INFO     | DIRS            | Verificando directorios...
+2026-02-12T23:00:57Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-12T23:00:57Z | OK       | DIRS            | data | owner=jano, group=jano, mode=750
+2026-02-12T23:00:57Z | OK       | DIRS            | oasip | owner=jano, group=jano, mode=750
+2026-02-12T23:00:57Z | OK       | DIRS            | voipmonitor | owner=jano, group=jano, mode=750
+2026-02-12T23:00:57Z | OK       | DIRS            | users | owner=jano, group=jano, mode=750
+2026-02-12T23:00:57Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-12T23:00:57Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-12T23:00:57Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-12T23:00:57Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-12T23:00:57Z | OK       | FILES           | users.json | Válido, 1958 bytes
+2026-02-12T23:00:57Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-12T23:00:57Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-12T23:00:57Z | OK       | FILES           | jano | 605 bytes
+2026-02-12T23:00:57Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-12T23:00:57Z | OK       | DATABASE        | users.json | 6 usuarios, 3 admins
+2026-02-12T23:00:57Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-12T23:00:57Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 5.4GB, Usado: 70.9%
+2026-02-12T23:00:57Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-12T23:00:57Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.3)
+2026-02-12T23:00:57Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-12T23:00:57Z | OK       | HEALTHCHECK     | RESULTADO: Todo correcto
+2026-02-12T23:00:57Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-12T23:00:57Z | INFO     | GIT-PUSH        | Subiendo logs a GitHub...
+2026-02-12T23:00:58Z | OK       | GIT-PUSH        | Completado | Logs subidos correctamente
+2026-02-13T05:01:29Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-13T05:01:29Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-13T05:01:29Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-13T05:01:29Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-13T05:01:29Z | OK       | SERVICES        | jano: activo | MainPID=3482, ActiveEnterTimestamp=Thu 2026-02-12 18:31:17 UTC
+2026-02-13T05:01:29Z | OK       | SERVICES        | nginx: activo | MainPID=1101, ActiveEnterTimestamp=Thu 2026-02-12 12:37:58 UTC
+2026-02-13T05:01:29Z | INFO     | DIRS            | Verificando directorios...
+2026-02-13T05:01:29Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-13T05:01:29Z | OK       | DIRS            | data | owner=jano, group=jano, mode=750
+2026-02-13T05:01:29Z | OK       | DIRS            | oasip | owner=jano, group=jano, mode=750
+2026-02-13T05:01:29Z | OK       | DIRS            | voipmonitor | owner=jano, group=jano, mode=750
+2026-02-13T05:01:29Z | OK       | DIRS            | users | owner=jano, group=jano, mode=750
+2026-02-13T05:01:29Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-13T05:01:29Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-13T05:01:29Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-13T05:01:29Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-13T05:01:29Z | OK       | FILES           | users.json | Válido, 1958 bytes
+2026-02-13T05:01:29Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-13T05:01:29Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-13T05:01:29Z | OK       | FILES           | jano | 605 bytes
+2026-02-13T05:01:29Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-13T05:01:29Z | OK       | DATABASE        | users.json | 6 usuarios, 3 admins
+2026-02-13T05:01:29Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-13T05:01:29Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 5.4GB, Usado: 71.0%
+2026-02-13T05:01:29Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-13T05:01:29Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.4)
+2026-02-13T05:01:29Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-13T05:01:29Z | OK       | HEALTHCHECK     | RESULTADO: Todo correcto
+2026-02-13T05:01:29Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-13T05:01:29Z | INFO     | GIT-PUSH        | Subiendo logs a GitHub...
+2026-02-13T05:01:30Z | OK       | GIT-PUSH        | Completado | Logs subidos correctamente
+2026-02-13T09:01:43Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-13T09:01:43Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-13T09:01:43Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-13T09:01:43Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-13T09:01:43Z | OK       | SERVICES        | jano: activo | MainPID=874, ActiveEnterTimestamp=Fri 2026-02-13 08:59:26 UTC
+2026-02-13T09:01:43Z | OK       | SERVICES        | nginx: activo | MainPID=939, ActiveEnterTimestamp=Fri 2026-02-13 08:59:30 UTC
+2026-02-13T09:01:43Z | INFO     | DIRS            | Verificando directorios...
+2026-02-13T09:01:43Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-13T09:01:43Z | OK       | DIRS            | data | owner=jano, group=jano, mode=750
+2026-02-13T09:01:43Z | OK       | DIRS            | oasip | owner=jano, group=jano, mode=750
+2026-02-13T09:01:43Z | OK       | DIRS            | voipmonitor | owner=jano, group=jano, mode=750
+2026-02-13T09:01:43Z | OK       | DIRS            | users | owner=jano, group=jano, mode=750
+2026-02-13T09:01:43Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-13T09:01:43Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-13T09:01:43Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-13T09:01:43Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-13T09:01:43Z | OK       | FILES           | users.json | Válido, 1958 bytes
+2026-02-13T09:01:43Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-13T09:01:43Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-13T09:01:43Z | OK       | FILES           | jano | 605 bytes
+2026-02-13T09:01:43Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-13T09:01:43Z | OK       | DATABASE        | users.json | 6 usuarios, 3 admins
+2026-02-13T09:01:43Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-13T09:01:43Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 5.4GB, Usado: 71.0%
+2026-02-13T09:01:43Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-13T09:01:43Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.3)
+2026-02-13T09:01:43Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-13T09:01:43Z | OK       | HEALTHCHECK     | RESULTADO: Todo correcto
+2026-02-13T09:01:43Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-13T09:01:43Z | INFO     | GIT-PUSH        | Subiendo logs a GitHub...
+2026-02-13T09:01:44Z | OK       | GIT-PUSH        | Completado | Logs subidos correctamente
+2026-02-13T11:46:05Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-13T11:46:05Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-13T11:46:05Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-13T11:46:05Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-13T11:46:05Z | OK       | SERVICES        | jano: activo | MainPID=825, ActiveEnterTimestamp=Fri 2026-02-13 11:45:31 UTC
+2026-02-13T11:46:05Z | OK       | SERVICES        | nginx: activo | MainPID=949, ActiveEnterTimestamp=Fri 2026-02-13 11:45:43 UTC
+2026-02-13T11:46:05Z | INFO     | DIRS            | Verificando directorios...
+2026-02-13T11:46:05Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-13T11:46:05Z | OK       | DIRS            | data | owner=jano, group=jano, mode=750
+2026-02-13T11:46:05Z | OK       | DIRS            | oasip | owner=jano, group=jano, mode=750
+2026-02-13T11:46:05Z | OK       | DIRS            | voipmonitor | owner=jano, group=jano, mode=750
+2026-02-13T11:46:05Z | OK       | DIRS            | users | owner=jano, group=jano, mode=750
+2026-02-13T11:46:05Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-13T11:46:05Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-13T11:46:05Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-13T11:46:05Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-13T11:46:05Z | OK       | FILES           | users.json | Válido, 1958 bytes
+2026-02-13T11:46:05Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-13T11:46:05Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-13T11:46:05Z | OK       | FILES           | jano | 605 bytes
+2026-02-13T11:46:05Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-13T11:46:05Z | OK       | DATABASE        | users.json | 6 usuarios, 3 admins
+2026-02-13T11:46:05Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-13T11:46:05Z | WARNING  | DISK            | Espacio bajo | Total: 18.5GB, Libre: 4.5GB, Usado: 75.9%
+2026-02-13T11:46:05Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-13T11:46:11Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.4)
+2026-02-13T11:46:11Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-13T11:46:11Z | WARNING  | HEALTHCHECK     | RESULTADO: Hay advertencias
+2026-02-13T11:46:11Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-13T11:46:11Z | INFO     | GIT-PUSH        | Subiendo logs a GitHub...
+2026-02-13T11:46:12Z | OK       | GIT-PUSH        | Completado | Logs subidos correctamente
+2026-02-16T08:12:29Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-16T08:12:29Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-16T08:12:29Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-16T08:12:29Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-16T08:12:29Z | OK       | SERVICES        | jano: activo | MainPID=988, ActiveEnterTimestamp=Mon 2026-02-16 08:11:03 UTC
+2026-02-16T08:12:29Z | OK       | SERVICES        | nginx: activo | MainPID=1114, ActiveEnterTimestamp=Mon 2026-02-16 08:11:09 UTC
+2026-02-16T08:12:29Z | INFO     | DIRS            | Verificando directorios...
+2026-02-16T08:12:29Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-16T08:12:29Z | OK       | DIRS            | data | owner=jano, group=jano, mode=750
+2026-02-16T08:12:29Z | OK       | DIRS            | oasip | owner=jano, group=jano, mode=750
+2026-02-16T08:12:29Z | OK       | DIRS            | voipmonitor | owner=jano, group=jano, mode=750
+2026-02-16T08:12:29Z | OK       | DIRS            | users | owner=jano, group=jano, mode=750
+2026-02-16T08:12:29Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-16T08:12:29Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-16T08:12:29Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-16T08:12:29Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-16T08:12:29Z | OK       | FILES           | users.json | Válido, 1958 bytes
+2026-02-16T08:12:29Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-16T08:12:29Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-16T08:12:29Z | OK       | FILES           | jano | 605 bytes
+2026-02-16T08:12:29Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-16T08:12:29Z | OK       | DATABASE        | users.json | 6 usuarios, 3 admins
+2026-02-16T08:12:29Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-16T08:12:29Z | WARNING  | DISK            | Espacio bajo | Total: 18.5GB, Libre: 4.5GB, Usado: 75.9%
+2026-02-16T08:12:29Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-16T08:12:29Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.3)
+2026-02-16T08:12:29Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-16T08:12:29Z | WARNING  | HEALTHCHECK     | RESULTADO: Hay advertencias
+2026-02-16T08:12:29Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-16T08:12:29Z | INFO     | GIT-PUSH        | Subiendo logs a GitHub...
+2026-02-16T08:12:30Z | OK       | GIT-PUSH        | Completado | Logs subidos correctamente
+2026-02-16T14:12:54Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-16T14:12:54Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-16T14:12:54Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-16T14:12:54Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-16T14:12:54Z | OK       | SERVICES        | jano: activo | MainPID=9864, ActiveEnterTimestamp=Mon 2026-02-16 12:48:39 UTC
+2026-02-16T14:12:54Z | OK       | SERVICES        | nginx: activo | MainPID=1114, ActiveEnterTimestamp=Mon 2026-02-16 08:11:09 UTC
+2026-02-16T14:12:54Z | INFO     | DIRS            | Verificando directorios...
+2026-02-16T14:12:54Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-16T14:12:54Z | OK       | DIRS            | data | owner=jano, group=jano, mode=750
+2026-02-16T14:12:54Z | OK       | DIRS            | oasip | owner=jano, group=jano, mode=750
+2026-02-16T14:12:54Z | OK       | DIRS            | voipmonitor | owner=jano, group=jano, mode=750
+2026-02-16T14:12:54Z | WARNING  | DIRS            | users | group=webapps (esperado: jano); mode=770 (esperado: 750)
+2026-02-16T14:12:54Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-16T14:12:54Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-16T14:12:54Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-16T14:12:54Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-16T14:12:54Z | OK       | FILES           | users.json | Válido, 2307 bytes
+2026-02-16T14:12:54Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-16T14:12:54Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-16T14:12:54Z | OK       | FILES           | jano | 605 bytes
+2026-02-16T14:12:54Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-16T14:12:54Z | OK       | DATABASE        | users.json | 7 usuarios, 3 admins
+2026-02-16T14:12:54Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-16T14:12:54Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 6.1GB, Usado: 67.2%
+2026-02-16T14:12:54Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-16T14:12:54Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.3)
+2026-02-16T14:12:54Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-16T14:12:54Z | WARNING  | HEALTHCHECK     | RESULTADO: Hay advertencias
+2026-02-16T14:12:54Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-16T14:12:54Z | INFO     | GIT-PUSH        | Subiendo logs a GitHub...
+2026-02-16T14:12:55Z | OK       | GIT-PUSH        | Completado | Logs subidos correctamente
+2026-02-16T16:25:37Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-16T16:25:37Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-16T16:25:37Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-16T16:25:37Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-16T16:25:37Z | OK       | SERVICES        | jano: activo | MainPID=983, ActiveEnterTimestamp=Mon 2026-02-16 16:24:08 UTC
+2026-02-16T16:25:37Z | OK       | SERVICES        | nginx: activo | MainPID=1104, ActiveEnterTimestamp=Mon 2026-02-16 16:24:13 UTC
+2026-02-16T16:25:37Z | INFO     | DIRS            | Verificando directorios...
+2026-02-16T16:25:37Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-16T16:25:37Z | OK       | DIRS            | data | owner=jano, group=jano, mode=750
+2026-02-16T16:25:37Z | OK       | DIRS            | oasip | owner=jano, group=jano, mode=750
+2026-02-16T16:25:37Z | OK       | DIRS            | voipmonitor | owner=jano, group=jano, mode=750
+2026-02-16T16:25:37Z | WARNING  | DIRS            | users | group=webapps (esperado: jano); mode=770 (esperado: 750)
+2026-02-16T16:25:37Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-16T16:25:37Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-16T16:25:37Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-16T16:25:37Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-16T16:25:37Z | OK       | FILES           | users.json | Válido, 2307 bytes
+2026-02-16T16:25:37Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-16T16:25:37Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-16T16:25:37Z | OK       | FILES           | jano | 605 bytes
+2026-02-16T16:25:37Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-16T16:25:37Z | OK       | DATABASE        | users.json | 7 usuarios, 3 admins
+2026-02-16T16:25:37Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-16T16:25:37Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 6.0GB, Usado: 67.5%
+2026-02-16T16:25:37Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-16T16:25:37Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.3)
+2026-02-16T16:25:37Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-16T16:25:37Z | WARNING  | HEALTHCHECK     | RESULTADO: Hay advertencias
+2026-02-16T16:25:37Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-16T16:25:37Z | INFO     | GIT-PUSH        | Subiendo logs a GitHub...
+2026-02-16T16:25:39Z | OK       | GIT-PUSH        | Completado | Logs subidos correctamente
+2026-02-18T14:25:58Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-18T14:25:58Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-18T14:25:58Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-18T14:25:58Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-18T14:25:58Z | OK       | SERVICES        | jano: activo | MainPID=897, ActiveEnterTimestamp=Wed 2026-02-18 14:24:07 UTC
+2026-02-18T14:25:58Z | OK       | SERVICES        | nginx: activo | MainPID=1002, ActiveEnterTimestamp=Wed 2026-02-18 14:24:15 UTC
+2026-02-18T14:25:58Z | INFO     | DIRS            | Verificando directorios...
+2026-02-18T14:25:58Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-18T14:25:58Z | OK       | DIRS            | data | owner=jano, group=jano, mode=750
+2026-02-18T14:25:58Z | OK       | DIRS            | oasip | owner=jano, group=jano, mode=750
+2026-02-18T14:25:58Z | OK       | DIRS            | voipmonitor | owner=jano, group=jano, mode=750
+2026-02-18T14:25:58Z | WARNING  | DIRS            | users | group=webapps (esperado: jano); mode=770 (esperado: 750)
+2026-02-18T14:25:58Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-18T14:25:58Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-18T14:25:58Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-18T14:25:58Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-18T14:25:58Z | OK       | FILES           | users.json | Válido, 2307 bytes
+2026-02-18T14:25:58Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-18T14:25:58Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-18T14:25:58Z | OK       | FILES           | jano | 605 bytes
+2026-02-18T14:25:58Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-18T14:25:58Z | OK       | DATABASE        | users.json | 7 usuarios, 3 admins
+2026-02-18T14:25:58Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-18T14:25:58Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 6.0GB, Usado: 67.6%
+2026-02-18T14:25:58Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-18T14:25:58Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.4)
+2026-02-18T14:25:58Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-18T14:25:58Z | WARNING  | HEALTHCHECK     | RESULTADO: Hay advertencias
+2026-02-18T14:25:58Z | INFO     | HEALTHCHECK     | ============================================================
