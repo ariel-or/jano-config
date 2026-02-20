@@ -554,3 +554,34 @@ error: failed to push some refs to 'https://github.com/ar
 2026-02-20T07:06:21Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
 2026-02-20T07:06:21Z | WARNING  | HEALTHCHECK     | RESULTADO: Hay advertencias
 2026-02-20T07:06:21Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-20T07:06:21Z | INFO     | GIT-PUSH        | Subiendo logs a GitHub...
+2026-02-20T07:06:22Z | OK       | GIT-PUSH        | Completado | Logs subidos correctamente
+2026-02-20T13:07:05Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-20T13:07:05Z | INFO     | HEALTHCHECK     | Iniciando verificación del sistema JANO
+2026-02-20T13:07:05Z | INFO     | HEALTHCHECK     | ============================================================
+2026-02-20T13:07:05Z | INFO     | SERVICES        | Verificando servicios...
+2026-02-20T13:07:05Z | OK       | SERVICES        | jano: activo | MainPID=1011, ActiveEnterTimestamp=Fri 2026-02-20 07:04:20 UTC
+2026-02-20T13:07:05Z | OK       | SERVICES        | nginx: activo | MainPID=1100, ActiveEnterTimestamp=Fri 2026-02-20 07:04:29 UTC
+2026-02-20T13:07:05Z | INFO     | DIRS            | Verificando directorios...
+2026-02-20T13:07:05Z | OK       | DIRS            | storage | owner=jano, group=jano, mode=750
+2026-02-20T13:07:05Z | OK       | DIRS            | data | owner=jano, group=jano, mode=750
+2026-02-20T13:07:05Z | OK       | DIRS            | oasip | owner=jano, group=jano, mode=750
+2026-02-20T13:07:05Z | OK       | DIRS            | voipmonitor | owner=jano, group=jano, mode=750
+2026-02-20T13:07:05Z | WARNING  | DIRS            | users | group=webapps (esperado: jano); mode=770 (esperado: 750)
+2026-02-20T13:07:05Z | OK       | DIRS            | logs | owner=jano, group=jano, mode=750
+2026-02-20T13:07:05Z | OK       | DIRS            | sessions | owner=jano, group=jano, mode=750
+2026-02-20T13:07:05Z | OK       | DIRS            | backups | owner=jano, group=jano, mode=750
+2026-02-20T13:07:05Z | INFO     | FILES           | Verificando archivos críticos...
+2026-02-20T13:07:05Z | OK       | FILES           | users.json | Válido, 2640 bytes
+2026-02-20T13:07:05Z | OK       | FILES           | main.py | 3320 bytes
+2026-02-20T13:07:05Z | OK       | FILES           | jano.service | 392 bytes
+2026-02-20T13:07:05Z | OK       | FILES           | jano | 605 bytes
+2026-02-20T13:07:05Z | INFO     | DATABASE        | Verificando base de datos de usuarios...
+2026-02-20T13:07:05Z | OK       | DATABASE        | users.json | 8 usuarios, 3 admins
+2026-02-20T13:07:05Z | INFO     | DISK            | Verificando espacio en disco...
+2026-02-20T13:07:05Z | OK       | DISK            | Espacio suficiente | Total: 18.5GB, Libre: 5.6GB, Usado: 69.7%
+2026-02-20T13:07:05Z | INFO     | NETWORK         | Verificando conectividad con GitHub...
+2026-02-20T13:07:05Z | OK       | NETWORK         | GitHub accesible | OK (IP: 140.82.121.4)
+2026-02-20T13:07:05Z | INFO     | HEALTHCHECK     | ------------------------------------------------------------
+2026-02-20T13:07:05Z | WARNING  | HEALTHCHECK     | RESULTADO: Hay advertencias
+2026-02-20T13:07:05Z | INFO     | HEALTHCHECK     | ============================================================
