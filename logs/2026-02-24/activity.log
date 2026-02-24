@@ -1,358 +1,3 @@
-2025-11-12T08:29:11Z | arielortigoza | CSV_SAVE day=2025-11-11 mode=append rows=7979 file=cdr_2025-11-11.csv | 
-{"ts": "2025-11-12T08:32:19.471830+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-13T07:57:59.864928+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-11-13T07:59:07Z | arielortigoza | CSV_SAVE day=2025-11-12 mode=append rows=7746 file=cdr_2025-11-12.csv | 
-{"ts": "2025-11-13T07:59:37.340895+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-13T16:33:32.199419+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-11-13T16:33:32.736252+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-11-13T17:00:59.507193+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-14T12:58:17.956125+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-11-14T12:58:28Z | arielortigoza | CSV_SAVE day=2025-11-13 mode=append rows=7246 file=cdr_2025-11-13.csv | 
-{"ts": "2025-11-14T12:59:13.376734+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-17T08:03:19.499730+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-11-17T08:04:32Z | arielortigoza | CSV_SAVE day=2025-11-14 mode=append rows=842 file=cdr_2025-11-14.csv | 
-2025-11-17T08:04:32Z | arielortigoza | CSV_SAVE day=2025-11-15 mode=append rows=89 file=cdr_2025-11-15.csv | 
-2025-11-17T08:04:32Z | arielortigoza | CSV_SAVE day=2025-11-16 mode=append rows=24 file=cdr_2025-11-16.csv | 
-{"ts": "2025-11-17T08:04:57.171473+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-17T12:06:32.009128+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-11-17T12:19:06.811626+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-18T14:28:28.747246+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-11-18T14:29:26Z | arielortigoza | CSV_SAVE day=2025-11-17 mode=append rows=1055 file=cdr_2025-11-17.csv | 
-2025-11-18T14:36:04Z | arielortigoza | CSV_SAVE day=2025-11-17 mode=append rows=2110 file=cdr_2025-11-17.csv | 
-2025-11-18T14:56:02Z | arielortigoza | CSV_SAVE day=2025-11-17 mode=append rows=2095 file=cdr_2025-11-17.csv | 
-2025-11-18T14:56:18Z | arielortigoza | CSV_SAVE day=2025-11-17 mode=append rows=1070 file=cdr_2025-11-17.csv | 
-{"ts": "2025-11-18T15:26:37.867787+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-19T09:41:14.635578+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-11-19T09:44:44Z | arielortigoza | CSV_SAVE day=2025-11-18 mode=append rows=914 file=cdr_2025-11-18.csv | 
-2025-11-19T09:44:44Z | arielortigoza | CSV_SAVE day=2025-11-19 mode=append rows=127 file=cdr_2025-11-19.csv | 
-2025-11-19T09:45:18Z | arielortigoza | CSV_SAVE day=2025-11-17 mode=append rows=2110 file=cdr_2025-11-17.csv | 
-2025-11-19T09:45:18Z | arielortigoza | CSV_SAVE day=2025-11-18 mode=append rows=1828 file=cdr_2025-11-18.csv | 
-2025-11-19T09:45:18Z | arielortigoza | CSV_SAVE day=2025-11-19 mode=append rows=255 file=cdr_2025-11-19.csv | 
-{"ts": "2025-11-19T09:52:26.443913+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-19T16:57:40.581675+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-11-19T16:57:41.697371+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-11-19T16:58:48.448846+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-20T07:55:18.964965+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-11-20T07:56:41Z | arielortigoza | CSV_SAVE day=2025-11-20 mode=append rows=23 file=cdr_2025-11-20.csv | 
-{"ts": "2025-11-20T07:57:19.480860+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-21T07:11:27.809063+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-11-21T07:11:38Z | arielortigoza | CSV_SAVE day=2025-11-20 mode=append rows=996 file=cdr_2025-11-20.csv | 
-{"ts": "2025-11-21T07:12:15.802866+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-24T08:19:30.137331+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-11-24T08:19:50Z | arielortigoza | CSV_SAVE day=2025-11-21 mode=append rows=747 file=cdr_2025-11-21.csv | 
-2025-11-24T08:19:50Z | arielortigoza | CSV_SAVE day=2025-11-22 mode=append rows=138 file=cdr_2025-11-22.csv | 
-2025-11-24T08:19:50Z | arielortigoza | CSV_SAVE day=2025-11-23 mode=append rows=31 file=cdr_2025-11-23.csv | 
-{"ts": "2025-11-24T08:20:25.380169+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-24T08:40:31.388098+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-11-24T16:18:05.459062+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-26T08:26:41.743935+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-11-26T08:28:17Z | arielortigoza | CSV_SAVE day=2025-11-25 mode=append rows=960 file=cdr_2025-11-25.csv | 
-{"ts": "2025-11-26T08:30:08.861673+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-27T07:59:24.574719+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-11-27T08:00:32Z | arielortigoza | CSV_SAVE day=2025-11-26 mode=append rows=924 file=cdr_2025-11-26.csv | 
-{"ts": "2025-11-27T08:01:39.744838+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-27T08:06:59.761968+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-11-27T08:07:13.768317+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-11-28T07:17:40.447102+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-11-28T07:17:55Z | arielortigoza | CSV_SAVE day=2025-11-25 mode=append rows=1920 file=cdr_2025-11-25.csv | 
-2025-11-28T07:20:18Z | arielortigoza | CSV_SAVE day=2025-11-18 mode=append rows=1828 file=cdr_2025-11-18.csv | 
-2025-11-28T07:20:18Z | arielortigoza | CSV_SAVE day=2025-11-19 mode=append rows=1076 file=cdr_2025-11-19.csv | 
-2025-11-28T07:20:18Z | arielortigoza | CSV_SAVE day=2025-11-20 mode=append rows=1946 file=cdr_2025-11-20.csv | 
-2025-11-28T07:20:18Z | arielortigoza | CSV_SAVE day=2025-11-21 mode=append rows=1494 file=cdr_2025-11-21.csv | 
-2025-11-28T07:20:18Z | arielortigoza | CSV_SAVE day=2025-11-22 mode=append rows=276 file=cdr_2025-11-22.csv | 
-2025-11-28T07:20:18Z | arielortigoza | CSV_SAVE day=2025-11-23 mode=append rows=62 file=cdr_2025-11-23.csv | 
-2025-11-28T07:20:18Z | arielortigoza | CSV_SAVE day=2025-11-24 mode=append rows=1036 file=cdr_2025-11-24.csv | 
-2025-11-28T07:20:18Z | arielortigoza | CSV_SAVE day=2025-11-25 mode=append rows=1920 file=cdr_2025-11-25.csv | 
-2025-11-28T07:20:18Z | arielortigoza | CSV_SAVE day=2025-11-26 mode=append rows=1848 file=cdr_2025-11-26.csv | 
-2025-11-28T07:20:18Z | arielortigoza | CSV_SAVE day=2025-11-27 mode=append rows=992 file=cdr_2025-11-27.csv | 
-{"ts": "2025-11-28T07:21:12.200431+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-01T08:36:22.066385+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-01T08:36:44Z | arielortigoza | CSV_SAVE day=2025-11-28 mode=append rows=867 file=cdr_2025-11-28.csv | 
-2025-12-01T08:36:44Z | arielortigoza | CSV_SAVE day=2025-11-29 mode=append rows=184 file=cdr_2025-11-29.csv | 
-2025-12-01T08:36:44Z | arielortigoza | CSV_SAVE day=2025-11-30 mode=append rows=21 file=cdr_2025-11-30.csv | 
-{"ts": "2025-12-01T08:37:13.805424+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-02T08:59:37.049630+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-02T08:59:53Z | arielortigoza | CSV_SAVE day=2025-12-01 mode=append rows=1235 file=cdr_2025-12-01.csv | 
-{"ts": "2025-12-02T09:02:53.402059+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-03T11:33:32.685822+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-03T11:33:46Z | arielortigoza | CSV_SAVE day=2025-12-02 mode=append rows=1161 file=cdr_2025-12-02.csv | 
-{"ts": "2025-12-03T11:34:46.422251+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-04T08:07:46.139942+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-04T08:07:58Z | arielortigoza | CSV_SAVE day=2025-12-03 mode=append rows=1062 file=cdr_2025-12-03.csv | 
-{"ts": "2025-12-04T08:08:31.725341+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-05T07:25:03.204294+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-05T07:25:15Z | arielortigoza | CSV_SAVE day=2025-12-04 mode=append rows=1025 file=cdr_2025-12-04.csv | 
-{"ts": "2025-12-05T07:25:29.527026+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-15T08:05:01.289263+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-15T08:06:45Z | arielortigoza | CSV_SAVE day=2025-12-05 mode=append rows=848 file=cdr_2025-12-05.csv | 
-2025-12-15T08:06:45Z | arielortigoza | CSV_SAVE day=2025-12-06 mode=append rows=61 file=cdr_2025-12-06.csv | 
-2025-12-15T08:06:45Z | arielortigoza | CSV_SAVE day=2025-12-07 mode=append rows=42 file=cdr_2025-12-07.csv | 
-2025-12-15T08:06:45Z | arielortigoza | CSV_SAVE day=2025-12-08 mode=append rows=35 file=cdr_2025-12-08.csv | 
-2025-12-15T08:06:45Z | arielortigoza | CSV_SAVE day=2025-12-09 mode=append rows=1208 file=cdr_2025-12-09.csv | 
-2025-12-15T08:06:45Z | arielortigoza | CSV_SAVE day=2025-12-10 mode=append rows=1188 file=cdr_2025-12-10.csv | 
-2025-12-15T08:06:45Z | arielortigoza | CSV_SAVE day=2025-12-11 mode=append rows=1070 file=cdr_2025-12-11.csv | 
-2025-12-15T08:06:45Z | arielortigoza | CSV_SAVE day=2025-12-12 mode=append rows=933 file=cdr_2025-12-12.csv | 
-2025-12-15T08:06:45Z | arielortigoza | CSV_SAVE day=2025-12-13 mode=append rows=43 file=cdr_2025-12-13.csv | 
-2025-12-15T08:06:45Z | arielortigoza | CSV_SAVE day=2025-12-14 mode=append rows=15 file=cdr_2025-12-14.csv | 
-{"ts": "2025-12-15T08:07:37.939675+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-16T08:04:42.253003+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-16T08:07:03Z | arielortigoza | CSV_SAVE day=2025-12-15 mode=append rows=1073 file=cdr_2025-12-15.csv | 
-{"ts": "2025-12-16T08:08:05.751516+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-16T15:12:28.523205+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-12-16T17:06:24.481249+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-17T07:57:39.969607+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-17T07:57:49Z | arielortigoza | CSV_SAVE day=2025-12-16 mode=append rows=950 file=cdr_2025-12-16.csv | 
-{"ts": "2025-12-17T07:58:03.933715+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-18T08:12:17.666088+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-18T08:12:26Z | arielortigoza | CSV_SAVE day=2025-12-17 mode=append rows=975 file=cdr_2025-12-17.csv | 
-{"ts": "2025-12-18T08:14:58.461353+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-18T16:23:23.946752+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-12-18T16:23:36.413239+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-19T07:09:22.032973+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-19T07:10:19Z | arielortigoza | CSV_SAVE day=2025-12-18 mode=append rows=1636 file=cdr_2025-12-18.csv | 
-{"ts": "2025-12-19T07:11:28.202588+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-19T13:37:09.816701+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-12-19T13:48:42.146202+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-22T08:14:51.769983+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-22T08:16:17Z | arielortigoza | CSV_SAVE day=2025-12-19 mode=append rows=4165 file=cdr_2025-12-19.csv | 
-2025-12-22T08:16:17Z | arielortigoza | CSV_SAVE day=2025-12-20 mode=append rows=53 file=cdr_2025-12-20.csv | 
-2025-12-22T08:16:17Z | arielortigoza | CSV_SAVE day=2025-12-21 mode=append rows=22 file=cdr_2025-12-21.csv | 
-{"ts": "2025-12-22T08:16:46.749914+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-23T07:47:52.358538+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-23T07:48:45Z | arielortigoza | CSV_SAVE day=2025-12-22 mode=append rows=2895 file=cdr_2025-12-22.csv | 
-{"ts": "2025-12-23T07:50:43.710937+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-24T07:58:15.264983+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-24T07:58:24Z | arielortigoza | CSV_SAVE day=2025-12-23 mode=append rows=1073 file=cdr_2025-12-23.csv | 
-{"ts": "2025-12-24T08:06:26.967059+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-26T08:32:43.605089+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-12-26T08:34:04.188311+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-29T08:02:24.177341+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-29T08:02:34Z | arielortigoza | CSV_SAVE day=2025-12-24 mode=append rows=539 file=cdr_2025-12-24.csv | 
-2025-12-29T08:02:34Z | arielortigoza | CSV_SAVE day=2025-12-25 mode=append rows=30 file=cdr_2025-12-25.csv | 
-2025-12-29T08:02:34Z | arielortigoza | CSV_SAVE day=2025-12-26 mode=append rows=1031 file=cdr_2025-12-26.csv | 
-2025-12-29T08:02:34Z | arielortigoza | CSV_SAVE day=2025-12-27 mode=append rows=95 file=cdr_2025-12-27.csv | 
-2025-12-29T08:02:34Z | arielortigoza | CSV_SAVE day=2025-12-28 mode=append rows=59 file=cdr_2025-12-28.csv | 
-{"ts": "2025-12-29T08:02:46.742582+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-29T08:40:49.220326+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-12-29T08:41:09.934263+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-29T11:23:22.417488+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-12-29T14:35:32.268181+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-30T07:57:47.838356+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-30T07:58:12Z | arielortigoza | CSV_SAVE day=2025-12-29 mode=append rows=2231 file=cdr_2025-12-29.csv | 
-{"ts": "2025-12-30T08:05:19.185128+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2025-12-30T15:16:35.872547+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2025-12-31T08:05:07.923217+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2025-12-31T08:05:26Z | arielortigoza | CSV_SAVE day=2025-12-30 mode=append rows=1062 file=cdr_2025-12-30.csv | 
-{"ts": "2025-12-31T08:05:52.094175+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-05T09:54:38.503228+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-05T09:55:40Z | arielortigoza | CSV_SAVE day=2025-12-31 mode=append rows=587 file=cdr_2025-12-31.csv | 
-2026-01-05T09:55:40Z | arielortigoza | CSV_SAVE day=2026-01-01 mode=append rows=27 file=cdr_2026-01-01.csv | 
-2026-01-05T09:55:40Z | arielortigoza | CSV_SAVE day=2026-01-02 mode=append rows=1096 file=cdr_2026-01-02.csv | 
-2026-01-05T09:55:40Z | arielortigoza | CSV_SAVE day=2026-01-03 mode=append rows=101 file=cdr_2026-01-03.csv | 
-2026-01-05T09:55:40Z | arielortigoza | CSV_SAVE day=2026-01-04 mode=append rows=15 file=cdr_2026-01-04.csv | 
-2026-01-05T09:55:40Z | arielortigoza | CSV_SAVE day=2026-01-05 mode=append rows=48 file=cdr_2026-01-05.csv | 
-{"ts": "2026-01-05T09:56:04.404297+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-07T16:50:06.348262+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-07T16:50:28Z | arielortigoza | CSV_SAVE day=2026-01-05 mode=append rows=4857 file=cdr_2026-01-05.csv | 
-{"ts": "2026-01-07T16:50:49.770626+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-08T08:07:37.470761+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-08T08:07:55Z | arielortigoza | CSV_SAVE day=2026-01-07 mode=append rows=6780 file=cdr_2026-01-07.csv | 
-{"ts": "2026-01-08T08:08:30.275192+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-08T16:10:45.998469+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-09T08:08:20.098139+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-09T08:10:31Z | arielortigoza | CSV_SAVE day=2026-01-08 mode=append rows=5747 file=cdr_2026-01-08.csv | 
-{"ts": "2026-01-09T08:41:36.218297+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-12T10:00:44.426949+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-12T10:02:20Z | arielortigoza | CSV_SAVE day=2026-01-09 mode=append rows=6091 file=cdr_2026-01-09.csv | 
-2026-01-12T10:02:20Z | arielortigoza | CSV_SAVE day=2026-01-10 mode=append rows=223 file=cdr_2026-01-10.csv | 
-{"ts": "2026-01-12T10:02:56.411209+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-13T09:12:09.973428+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-13T10:24:16.375252+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-14T12:31:18.075672+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-14T12:34:47Z | arielortigoza | CSV_SAVE day=2026-01-13 mode=append rows=7542 file=cdr_2026-01-13.csv | 
-2026-01-14T12:34:47Z | arielortigoza | CSV_SAVE day=2026-01-14 mode=append rows=2308 file=cdr_2026-01-14.csv | 
-{"ts": "2026-01-14T12:35:14.709841+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-14T14:57:24.883325+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-15T08:04:02.268431+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-15T08:04:17Z | arielortigoza | CSV_SAVE day=2026-01-14 mode=append rows=10097 file=cdr_2026-01-14.csv | 
-{"ts": "2026-01-15T08:04:44.813028+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-15T08:25:32.103283+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-15T17:17:01.914298+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-15T17:17:02.116092+00:00", "user": "-", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T07:42:14.745375+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T07:42:19.239983+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T07:45:38.394227+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-16T07:45:57Z | arielortigoza | CSV_SAVE day=2026-01-15 mode=append rows=7298 file=cdr_2026-01-15.csv | 
-{"ts": "2026-01-16T07:48:11.520003+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T07:48:50.926414+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T08:01:56.760199+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T08:02:46.643598+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T11:14:48.242357+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T11:14:54.465873+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T12:44:15.055166+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T12:44:29.128283+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T19:07:56.809684+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T19:08:13.689527+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T19:17:22.751987+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T19:54:39.957885+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T19:54:49.072045+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T20:06:24.364751+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T21:00:36.034038+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T21:00:53.727267+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T21:02:09.817795+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T21:03:07.702979+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-16T21:07:24.980771+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-17T17:04:47.734310+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-17T17:08:31Z | arielortigoza | CSV_SAVE day=2026-01-16 mode=append rows=6280 file=cdr_2026-01-16.csv | 
-2026-01-17T17:08:31Z | arielortigoza | CSV_SAVE day=2026-01-17 mode=append rows=570 file=cdr_2026-01-17.csv | 
-{"ts": "2026-01-17T17:09:46.469936+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-17T17:10:04.521996+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-17T17:27:09.286576+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-17T18:43:23.434138+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-17T18:47:35.302250+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-17T18:47:47.125384+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-17T19:07:37.592438+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-17T19:07:43.164121+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-17T19:08:10.454342+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-19T07:59:30.583252+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-19T08:00:13Z | arielortigoza | CSV_SAVE day=2026-01-16 mode=append rows=12560 file=cdr_2026-01-16.csv | 
-2026-01-19T08:00:13Z | arielortigoza | CSV_SAVE day=2026-01-17 mode=append rows=1140 file=cdr_2026-01-17.csv | 
-{"ts": "2026-01-19T08:00:52.660572+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-19T08:13:58.895588+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-19T10:34:34.193087+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-19T15:41:48Z | arielortigoza | CSV_SAVE day=2026-01-11 mode=append rows=25 format=voipmonitor | 
-2026-01-19T15:41:48Z | arielortigoza | CSV_SAVE day=2026-01-12 mode=append rows=10151 format=voipmonitor | 
-2026-01-19T15:41:49Z | arielortigoza | CSV_SAVE day=2026-01-13 mode=append rows=8865 format=voipmonitor | 
-2026-01-19T15:41:49Z | arielortigoza | CSV_SAVE day=2026-01-14 mode=append rows=9022 format=voipmonitor | 
-2026-01-19T15:41:50Z | arielortigoza | CSV_SAVE day=2026-01-15 mode=append rows=8404 format=voipmonitor | 
-2026-01-19T15:41:50Z | arielortigoza | CSV_SAVE day=2026-01-16 mode=append rows=7425 format=voipmonitor | 
-2026-01-19T15:41:50Z | arielortigoza | CSV_SAVE day=2026-01-17 mode=append rows=720 format=voipmonitor | 
-2026-01-19T15:41:50Z | arielortigoza | CSV_SAVE day=2026-01-18 mode=append rows=21 format=voipmonitor | 
-2026-01-19T15:41:50Z | arielortigoza | CSV_SAVE day=2026-01-19 mode=append rows=1998 format=voipmonitor | 
-{"ts": "2026-01-19T15:43:22.544193+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-19T17:08:38.501914+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-19T17:08:43.985587+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-19T17:09:31.088839+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-19T17:10:07.414790+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-19T17:12:11.598207+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-20T15:59:08.965555+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-20T16:00:08.870573+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-21T08:25:35.873483+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-21T08:27:27Z | arielortigoza | CSV_SAVE folder=oasip day=2026-01-17 mode=append rows=1140 | 
-2026-01-21T08:27:27Z | arielortigoza | CSV_SAVE folder=oasip day=2026-01-19 mode=append rows=7409 | 
-2026-01-21T08:27:27Z | arielortigoza | CSV_SAVE folder=oasip day=2026-01-20 mode=append rows=6479 | 
-2026-01-21T08:36:05Z | arielortigoza | CSV_SAVE folder=voipmonitor day=2026-01-17 mode=append rows=1440 | 
-2026-01-21T08:36:05Z | arielortigoza | CSV_SAVE folder=voipmonitor day=2026-01-18 mode=append rows=42 | 
-2026-01-21T08:36:06Z | arielortigoza | CSV_SAVE folder=voipmonitor day=2026-01-19 mode=append rows=10657 | 
-2026-01-21T08:36:07Z | arielortigoza | CSV_SAVE folder=voipmonitor day=2026-01-20 mode=append rows=7764 | 
-2026-01-21T08:36:07Z | arielortigoza | CSV_SAVE folder=voipmonitor day=2026-01-21 mode=append rows=233 | 
-{"ts": "2026-01-21T08:36:26.298719+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-21T08:55:52.805914+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-21T08:57:03.389527+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-21T14:28:30.140342+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-21T14:28:35.106478+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-22T08:00:57.065849+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-22T08:02:36Z | arielortigoza | CSV_SAVE folder=oasip day=2026-01-21 mode=append rows=6544 | 
-2026-01-22T08:03:24Z | arielortigoza | CSV_SAVE folder=voipmonitor day=2026-01-21 mode=append rows=7985 | 
-{"ts": "2026-01-22T08:03:42.637369+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-23T11:55:17.341147+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-23T11:55:57Z | arielortigoza | CSV_SAVE folder=voipmonitor day=2026-01-16 mode=append rows=14850 | 
-{"ts": "2026-01-26T08:04:14.289528+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-26T08:04:53Z | arielortigoza | CSV_SAVE folder=oasip day=2026-01-22 mode=append rows=6918 | 
-2026-01-26T08:04:53Z | arielortigoza | CSV_SAVE folder=oasip day=2026-01-23 mode=append rows=7726 | 
-2026-01-26T08:04:53Z | arielortigoza | CSV_SAVE folder=oasip day=2026-01-24 mode=append rows=519 | 
-{"ts": "2026-01-26T08:05:41.966864+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T09:17:32.041652+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T09:28:57.689359+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T09:31:05.236053+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T09:43:54.451615+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T09:44:06.414932+00:00", "user": "-", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T10:17:38.565237+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T10:17:50.045828+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T10:57:28.907873+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T10:57:35.296673+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T11:25:23.644366+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T11:26:16.442990+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T11:35:02.348657+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T11:36:56.851579+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T11:37:10.253361+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T11:38:07.833824+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T11:41:55.026358+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T11:58:10.451065+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T11:58:20.630710+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T11:58:31.003265+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T12:42:21.868791+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T13:08:57.760108+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T13:20:34.717885+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T13:20:45.847221+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T13:22:59.200176+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T13:23:07.815212+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T14:13:36.250114+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T14:13:48.095547+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T14:14:20.501537+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T16:08:07.406353+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T16:08:11.845269+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T16:08:17.725626+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T16:08:27.024500+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T16:58:25.867418+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T17:07:25.581781+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T19:59:09.229599+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T20:21:19.411680+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T20:21:29.715188+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T20:24:19.437847+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T20:48:55.830970+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T20:51:56.985704+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-26T20:58:01.948282+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-27T08:22:30.570136+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-27T10:20:29.233943+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-27T10:22:00.845302+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-{"ts": "2026-01-27T10:26:48.651062+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
-{"ts": "2026-01-27T10:27:27.641618+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
-2026-01-27T10:34:22Z | arielortigoza | CSV_SAVE day=2026-01-24 mode=append rows=519 file=cdr_2026-01-24.csv | 
-2026-01-27T10:34:22Z | arielortigoza | CSV_SAVE day=2026-01-26 mode=append rows=8100 file=cdr_2026-01-26.csv | 
-2026-01-27T10:36:51Z | arielortigoza | CSV_SAVE day=2026-01-12 mode=append rows=8747 file=cdr_2026-01-12.csv | 
-2026-01-27T10:36:51Z | arielortigoza | CSV_SAVE day=2026-01-13 mode=append rows=7542 file=cdr_2026-01-13.csv | 
-2026-01-27T10:36:51Z | arielortigoza | CSV_SAVE day=2026-01-14 mode=append rows=7790 file=cdr_2026-01-14.csv | 
-2026-01-27T11:33:35Z | arielortigoza | CSV_SAVE day=2026-01-22 mode=append rows=8147 file=cdr_2026-01-22.csv | 
-2026-01-27T11:33:36Z | arielortigoza | CSV_SAVE day=2026-01-23 mode=append rows=8823 file=cdr_2026-01-23.csv | 
-2026-01-27T11:33:36Z | arielortigoza | CSV_SAVE day=2026-01-24 mode=append rows=1225 file=cdr_2026-01-24.csv | 
-2026-01-27T11:33:36Z | arielortigoza | CSV_SAVE day=2026-01-25 mode=append rows=19 file=cdr_2026-01-25.csv | 
-2026-01-27T11:33:37Z | arielortigoza | CSV_SAVE day=2026-01-26 mode=append rows=17579 file=cdr_2026-01-26.csv | 
-2026-01-27T11:33:38Z | arielortigoza | CSV_SAVE day=2026-01-27 mode=append rows=1875 file=cdr_2026-01-27.csv | 
-2026-01-27T11:45:20Z | arielortigoza | CSV_SAVE day=2026-01-01 mode=append rows=28 file=cdr_2026-01-01.csv | 
-2026-01-27T11:45:20Z | arielortigoza | CSV_SAVE day=2026-01-02 mode=append rows=8528 file=cdr_2026-01-02.csv | 
-2026-01-27T11:45:20Z | arielortigoza | CSV_SAVE day=2026-01-03 mode=append rows=341 file=cdr_2026-01-03.csv | 
-2026-01-27T11:45:20Z | arielortigoza | CSV_SAVE day=2026-01-04 mode=append rows=18 file=cdr_2026-01-04.csv | 
-2026-01-27T11:45:21Z | arielortigoza | CSV_SAVE day=2026-01-05 mode=append rows=5952 file=cdr_2026-01-05.csv | 
-2026-01-27T11:45:21Z | arielortigoza | CSV_SAVE day=2026-01-06 mode=append rows=84 file=cdr_2026-01-06.csv | 
-2026-01-27T11:45:21Z | arielortigoza | CSV_SAVE day=2026-01-07 mode=append rows=8268 file=cdr_2026-01-07.csv | 
-2026-01-27T11:45:22Z | arielortigoza | CSV_SAVE day=2026-01-08 mode=append rows=7020 file=cdr_2026-01-08.csv | 
-2026-01-27T11:45:22Z | arielortigoza | CSV_SAVE day=2026-01-09 mode=append rows=7319 file=cdr_2026-01-09.csv | 
-2026-01-27T11:45:22Z | arielortigoza | CSV_SAVE day=2026-01-10 mode=append rows=286 file=cdr_2026-01-10.csv | 
-2026-01-27T11:45:22Z | arielortigoza | CSV_SAVE day=2026-01-11 mode=append rows=25 file=cdr_2026-01-11.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-01 mode=append rows=0 file=cdr_2025-12-01.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-02 mode=append rows=0 file=cdr_2025-12-02.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-03 mode=append rows=0 file=cdr_2025-12-03.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-04 mode=append rows=0 file=cdr_2025-12-04.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-05 mode=append rows=0 file=cdr_2025-12-05.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-06 mode=append rows=0 file=cdr_2025-12-06.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-07 mode=append rows=0 file=cdr_2025-12-07.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-08 mode=append rows=0 file=cdr_2025-12-08.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-09 mode=append rows=0 file=cdr_2025-12-09.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-10 mode=append rows=0 file=cdr_2025-12-10.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-11 mode=append rows=0 file=cdr_2025-12-11.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-12 mode=append rows=0 file=cdr_2025-12-12.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-13 mode=append rows=0 file=cdr_2025-12-13.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-14 mode=append rows=0 file=cdr_2025-12-14.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-15 mode=append rows=0 file=cdr_2025-12-15.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-16 mode=append rows=0 file=cdr_2025-12-16.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-17 mode=append rows=0 file=cdr_2025-12-17.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-18 mode=append rows=0 file=cdr_2025-12-18.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-19 mode=append rows=0 file=cdr_2025-12-19.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-20 mode=append rows=0 file=cdr_2025-12-20.csv | 
-2026-01-27T11:54:28Z | arielortigoza | CSV_SAVE day=2025-12-21 mode=append rows=0 file=cdr_2025-12-21.csv | 
-2026-01-27T11:54:29Z | arielortigoza | CSV_SAVE day=2025-12-22 mode=append rows=4275 file=cdr_2025-12-22.csv | 
-2026-01-27T11:54:29Z | arielortigoza | CSV_SAVE day=2025-12-23 mode=append rows=9278 file=cdr_2025-12-23.csv | 
 2026-01-27T11:54:30Z | arielortigoza | CSV_SAVE day=2025-12-24 mode=append rows=6776 file=cdr_2025-12-24.csv | 
 2026-01-27T11:54:30Z | arielortigoza | CSV_SAVE day=2025-12-25 mode=append rows=33 file=cdr_2025-12-25.csv | 
 2026-01-27T11:54:30Z | arielortigoza | CSV_SAVE day=2025-12-26 mode=append rows=9023 file=cdr_2025-12-26.csv | 
@@ -998,3 +643,358 @@
 {"ts": "2026-02-20T09:18:00.158382+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
 {"ts": "2026-02-20T09:24:37.814023+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
 {"ts": "2026-02-24T07:51:18.065941+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+{"ts": "2026-02-24T08:44:14.900416+00:00", "user": "arielortigoza", "action": "SESSION_TIMEOUT", "category": "auth", "meta": {"reason": "session_timeout"}}
+{"ts": "2026-02-24T08:44:16.828988+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+{"ts": "2026-02-24T09:05:03.459356+00:00", "user": "arielortigoza", "action": "SESSION_TIMEOUT", "category": "auth", "meta": {"reason": "session_timeout"}}
+{"ts": "2026-02-24T09:05:06.952943+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-01 mode=append rows=26 file=cdr_2026-01-01.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-01.csv: +0 nuevos, 26 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-02 mode=append rows=1090 file=cdr_2026-01-02.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-02.csv: +0 nuevos, 1090 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-03 mode=append rows=101 file=cdr_2026-01-03.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-03.csv: +0 nuevos, 101 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-04 mode=append rows=15 file=cdr_2026-01-04.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-04.csv: +0 nuevos, 15 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-05 mode=append rows=1071 file=cdr_2026-01-05.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-05.csv: +0 nuevos, 1071 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-06 mode=append rows=82 file=cdr_2026-01-06.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-06.csv: +0 nuevos, 82 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-07 mode=append rows=1356 file=cdr_2026-01-07.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-07.csv: +0 nuevos, 1356 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-08 mode=append rows=1173 file=cdr_2026-01-08.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-08.csv: +0 nuevos, 1173 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-09 mode=append rows=1058 file=cdr_2026-01-09.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-09.csv: +0 nuevos, 1058 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-10 mode=append rows=62 file=cdr_2026-01-10.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-10.csv: +0 nuevos, 62 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-11 mode=append rows=20 file=cdr_2026-01-11.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-11.csv: +0 nuevos, 20 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-12 mode=append rows=10005 file=cdr_2026-01-12.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-12.csv: +0 nuevos, 10005 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-13 mode=append rows=8696 file=cdr_2026-01-13.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-13.csv: +0 nuevos, 8696 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-14 mode=append rows=8879 file=cdr_2026-01-14.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-14.csv: +0 nuevos, 8879 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-15 mode=append rows=8266 file=cdr_2026-01-15.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-15.csv: +0 nuevos, 8266 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-16 mode=append rows=7213 file=cdr_2026-01-16.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-16.csv: +0 nuevos, 7213 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-17 mode=append rows=716 file=cdr_2026-01-17.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-17.csv: +0 nuevos, 716 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-18 mode=append rows=18 file=cdr_2026-01-18.csv | 
+2026-02-24T09:05:43Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-18.csv: +0 nuevos, 18 duplicados | 
+2026-02-24T09:05:43Z | arielortigoza | CSV_SAVE day=2026-01-19 mode=append rows=8428 file=cdr_2026-01-19.csv | 
+2026-02-24T09:05:44Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-19.csv: +0 nuevos, 8428 duplicados | 
+2026-02-24T09:05:44Z | arielortigoza | CSV_SAVE day=2026-01-20 mode=append rows=7422 file=cdr_2026-01-20.csv | 
+2026-02-24T09:05:44Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-20.csv: +0 nuevos, 7422 duplicados | 
+2026-02-24T09:05:44Z | arielortigoza | CSV_SAVE day=2026-01-21 mode=append rows=7486 file=cdr_2026-01-21.csv | 
+2026-02-24T09:05:44Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-21.csv: +0 nuevos, 7486 duplicados | 
+2026-02-24T09:05:44Z | arielortigoza | CSV_SAVE day=2026-01-22 mode=append rows=899 file=cdr_2026-01-22.csv | 
+2026-02-24T09:05:44Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-22.csv: +0 nuevos, 899 duplicados | 
+2026-02-24T09:05:44Z | arielortigoza | CSV_SAVE day=2026-01-23 mode=append rows=928 file=cdr_2026-01-23.csv | 
+2026-02-24T09:05:44Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-23.csv: +0 nuevos, 928 duplicados | 
+2026-02-24T09:05:44Z | arielortigoza | CSV_SAVE day=2026-01-24 mode=append rows=1410 file=cdr_2026-01-24.csv | 
+2026-02-24T09:05:44Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-24.csv: +0 nuevos, 1410 duplicados | 
+2026-02-24T09:05:44Z | arielortigoza | CSV_SAVE day=2026-01-25 mode=append rows=14 file=cdr_2026-01-25.csv | 
+2026-02-24T09:05:44Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-25.csv: +0 nuevos, 14 duplicados | 
+2026-02-24T09:05:46Z | arielortigoza | CSV_SAVE day=2026-01-26 mode=append rows=18785 file=cdr_2026-01-26.csv | 
+2026-02-24T09:05:46Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-26.csv: +0 nuevos, 18785 duplicados | 
+2026-02-24T09:05:46Z | arielortigoza | CSV_SAVE day=2026-01-27 mode=append rows=9141 file=cdr_2026-01-27.csv | 
+2026-02-24T09:05:46Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-27.csv: +0 nuevos, 9141 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-01-28 mode=append rows=8992 file=cdr_2026-01-28.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-28.csv: +0 nuevos, 8992 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-01-29 mode=append rows=8051 file=cdr_2026-01-29.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-29.csv: +0 nuevos, 8051 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-01-30 mode=append rows=7980 file=cdr_2026-01-30.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-30.csv: +0 nuevos, 7980 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-01-31 mode=append rows=958 file=cdr_2026-01-31.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-01-31.csv: +0 nuevos, 958 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-01 mode=append rows=0 file=cdr_2026-02-01.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-01.csv: +0 nuevos, 0 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-02 mode=append rows=6846 file=cdr_2026-02-02.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-02.csv: +0 nuevos, 6846 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-03 mode=append rows=7099 file=cdr_2026-02-03.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-03.csv: +0 nuevos, 7099 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-04 mode=append rows=7003 file=cdr_2026-02-04.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-04.csv: +0 nuevos, 7003 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-05 mode=append rows=7094 file=cdr_2026-02-05.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-05.csv: +0 nuevos, 7094 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-06 mode=append rows=7820 file=cdr_2026-02-06.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-06.csv: +0 nuevos, 7820 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-07 mode=append rows=526 file=cdr_2026-02-07.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-07.csv: +0 nuevos, 526 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-08 mode=append rows=0 file=cdr_2026-02-08.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-08.csv: +0 nuevos, 0 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-09 mode=append rows=6867 file=cdr_2026-02-09.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-09.csv: +0 nuevos, 6867 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-10 mode=append rows=6425 file=cdr_2026-02-10.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-10.csv: +0 nuevos, 6425 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-11 mode=append rows=5784 file=cdr_2026-02-11.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-11.csv: +0 nuevos, 5784 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-12 mode=append rows=6232 file=cdr_2026-02-12.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-12.csv: +0 nuevos, 6232 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-13 mode=append rows=5819 file=cdr_2026-02-13.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-13.csv: +0 nuevos, 5819 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-14 mode=append rows=316 file=cdr_2026-02-14.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-14.csv: +0 nuevos, 316 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-15 mode=append rows=0 file=cdr_2026-02-15.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-15.csv: +0 nuevos, 0 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-16 mode=append rows=5380 file=cdr_2026-02-16.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-16.csv: +0 nuevos, 5380 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-17 mode=append rows=2773 file=cdr_2026-02-17.csv | 
+2026-02-24T09:05:47Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-17.csv: +0 nuevos, 2773 duplicados | 
+2026-02-24T09:05:47Z | arielortigoza | CSV_SAVE day=2026-02-18 mode=append rows=11145 file=cdr_2026-02-18.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-18.csv: +1769 nuevos, 9376 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-02-19 mode=append rows=6446 file=cdr_2026-02-19.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-19.csv: +6444 nuevos, 2 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-02-20 mode=append rows=7574 file=cdr_2026-02-20.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-20.csv: +7570 nuevos, 4 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-02-21 mode=append rows=432 file=cdr_2026-02-21.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-21.csv: +432 nuevos, 0 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-02-22 mode=append rows=0 file=cdr_2026-02-22.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-22.csv: +0 nuevos, 0 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-02-23 mode=append rows=8317 file=cdr_2026-02-23.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-23.csv: +8317 nuevos, 0 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-02-24 mode=append rows=205 file=cdr_2026-02-24.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(7).csv -> cdr_2026-02-24.csv: +205 nuevos, 0 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-01 mode=append rows=26 file=cdr_2026-01-01.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-01.csv: +0 nuevos, 26 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-02 mode=append rows=1090 file=cdr_2026-01-02.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-02.csv: +0 nuevos, 1090 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-03 mode=append rows=101 file=cdr_2026-01-03.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-03.csv: +0 nuevos, 101 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-04 mode=append rows=15 file=cdr_2026-01-04.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-04.csv: +0 nuevos, 15 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-05 mode=append rows=1071 file=cdr_2026-01-05.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-05.csv: +0 nuevos, 1071 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-06 mode=append rows=82 file=cdr_2026-01-06.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-06.csv: +0 nuevos, 82 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-07 mode=append rows=1356 file=cdr_2026-01-07.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-07.csv: +0 nuevos, 1356 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-08 mode=append rows=1173 file=cdr_2026-01-08.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-08.csv: +0 nuevos, 1173 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-09 mode=append rows=1058 file=cdr_2026-01-09.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-09.csv: +0 nuevos, 1058 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-10 mode=append rows=62 file=cdr_2026-01-10.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-10.csv: +0 nuevos, 62 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-11 mode=append rows=20 file=cdr_2026-01-11.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-11.csv: +0 nuevos, 20 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-12 mode=append rows=10005 file=cdr_2026-01-12.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-12.csv: +0 nuevos, 10005 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-13 mode=append rows=8696 file=cdr_2026-01-13.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-13.csv: +0 nuevos, 8696 duplicados | 
+2026-02-24T09:05:48Z | arielortigoza | CSV_SAVE day=2026-01-14 mode=append rows=8879 file=cdr_2026-01-14.csv | 
+2026-02-24T09:05:48Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-14.csv: +0 nuevos, 8879 duplicados | 
+2026-02-24T09:05:49Z | arielortigoza | CSV_SAVE day=2026-01-15 mode=append rows=8266 file=cdr_2026-01-15.csv | 
+2026-02-24T09:05:49Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-15.csv: +0 nuevos, 8266 duplicados | 
+2026-02-24T09:05:49Z | arielortigoza | CSV_SAVE day=2026-01-16 mode=append rows=7213 file=cdr_2026-01-16.csv | 
+2026-02-24T09:05:49Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-16.csv: +0 nuevos, 7213 duplicados | 
+2026-02-24T09:05:49Z | arielortigoza | CSV_SAVE day=2026-01-17 mode=append rows=716 file=cdr_2026-01-17.csv | 
+2026-02-24T09:05:49Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-17.csv: +0 nuevos, 716 duplicados | 
+2026-02-24T09:05:49Z | arielortigoza | CSV_SAVE day=2026-01-18 mode=append rows=18 file=cdr_2026-01-18.csv | 
+2026-02-24T09:05:49Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-18.csv: +0 nuevos, 18 duplicados | 
+2026-02-24T09:05:49Z | arielortigoza | CSV_SAVE day=2026-01-19 mode=append rows=8428 file=cdr_2026-01-19.csv | 
+2026-02-24T09:05:49Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-19.csv: +0 nuevos, 8428 duplicados | 
+2026-02-24T09:05:49Z | arielortigoza | CSV_SAVE day=2026-01-20 mode=append rows=7422 file=cdr_2026-01-20.csv | 
+2026-02-24T09:05:49Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-20.csv: +0 nuevos, 7422 duplicados | 
+2026-02-24T09:05:49Z | arielortigoza | CSV_SAVE day=2026-01-21 mode=append rows=7486 file=cdr_2026-01-21.csv | 
+2026-02-24T09:05:49Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-21.csv: +0 nuevos, 7486 duplicados | 
+2026-02-24T09:05:49Z | arielortigoza | CSV_SAVE day=2026-01-22 mode=append rows=899 file=cdr_2026-01-22.csv | 
+2026-02-24T09:05:49Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-22.csv: +0 nuevos, 899 duplicados | 
+2026-02-24T09:05:49Z | arielortigoza | CSV_SAVE day=2026-01-23 mode=append rows=928 file=cdr_2026-01-23.csv | 
+2026-02-24T09:05:49Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-23.csv: +0 nuevos, 928 duplicados | 
+2026-02-24T09:05:49Z | arielortigoza | CSV_SAVE day=2026-01-24 mode=append rows=1410 file=cdr_2026-01-24.csv | 
+2026-02-24T09:05:49Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-24.csv: +0 nuevos, 1410 duplicados | 
+2026-02-24T09:05:49Z | arielortigoza | CSV_SAVE day=2026-01-25 mode=append rows=14 file=cdr_2026-01-25.csv | 
+2026-02-24T09:05:49Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-25.csv: +0 nuevos, 14 duplicados | 
+2026-02-24T09:05:50Z | arielortigoza | CSV_SAVE day=2026-01-26 mode=append rows=18785 file=cdr_2026-01-26.csv | 
+2026-02-24T09:05:51Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-26.csv: +0 nuevos, 18785 duplicados | 
+2026-02-24T09:05:51Z | arielortigoza | CSV_SAVE day=2026-01-27 mode=append rows=9141 file=cdr_2026-01-27.csv | 
+2026-02-24T09:05:51Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-27.csv: +0 nuevos, 9141 duplicados | 
+2026-02-24T09:05:51Z | arielortigoza | CSV_SAVE day=2026-01-28 mode=append rows=8992 file=cdr_2026-01-28.csv | 
+2026-02-24T09:05:51Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-28.csv: +0 nuevos, 8992 duplicados | 
+2026-02-24T09:05:51Z | arielortigoza | CSV_SAVE day=2026-01-29 mode=append rows=8051 file=cdr_2026-01-29.csv | 
+2026-02-24T09:05:51Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-29.csv: +0 nuevos, 8051 duplicados | 
+2026-02-24T09:05:51Z | arielortigoza | CSV_SAVE day=2026-01-30 mode=append rows=7980 file=cdr_2026-01-30.csv | 
+2026-02-24T09:05:51Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-30.csv: +0 nuevos, 7980 duplicados | 
+2026-02-24T09:05:51Z | arielortigoza | CSV_SAVE day=2026-01-31 mode=append rows=958 file=cdr_2026-01-31.csv | 
+2026-02-24T09:05:51Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-01-31.csv: +0 nuevos, 958 duplicados | 
+2026-02-24T09:05:51Z | arielortigoza | CSV_SAVE day=2026-02-01 mode=append rows=30 file=cdr_2026-02-01.csv | 
+2026-02-24T09:05:51Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-01.csv: +30 nuevos, 0 duplicados | 
+2026-02-24T09:05:51Z | arielortigoza | CSV_SAVE day=2026-02-02 mode=append rows=7908 file=cdr_2026-02-02.csv | 
+2026-02-24T09:05:51Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-02.csv: +7908 nuevos, 0 duplicados | 
+2026-02-24T09:05:51Z | arielortigoza | CSV_SAVE day=2026-02-03 mode=append rows=8130 file=cdr_2026-02-03.csv | 
+2026-02-24T09:05:51Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-03.csv: +1031 nuevos, 7099 duplicados | 
+2026-02-24T09:05:51Z | arielortigoza | CSV_SAVE day=2026-02-04 mode=append rows=8065 file=cdr_2026-02-04.csv | 
+2026-02-24T09:05:51Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-04.csv: +8065 nuevos, 0 duplicados | 
+2026-02-24T09:05:51Z | arielortigoza | CSV_SAVE day=2026-02-05 mode=append rows=8152 file=cdr_2026-02-05.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-05.csv: +1058 nuevos, 7094 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-06 mode=append rows=8780 file=cdr_2026-02-06.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-06.csv: +960 nuevos, 7820 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-07 mode=append rows=696 file=cdr_2026-02-07.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-07.csv: +170 nuevos, 526 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-08 mode=append rows=22 file=cdr_2026-02-08.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-08.csv: +22 nuevos, 0 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-09 mode=append rows=7952 file=cdr_2026-02-09.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-09.csv: +7952 nuevos, 0 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-10 mode=append rows=7380 file=cdr_2026-02-10.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-10.csv: +7380 nuevos, 0 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-11 mode=append rows=7432 file=cdr_2026-02-11.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-11.csv: +7432 nuevos, 0 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-12 mode=append rows=7769 file=cdr_2026-02-12.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-12.csv: +7769 nuevos, 0 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-13 mode=append rows=8919 file=cdr_2026-02-13.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-13.csv: +8919 nuevos, 0 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-14 mode=append rows=591 file=cdr_2026-02-14.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-14.csv: +275 nuevos, 316 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-15 mode=append rows=40 file=cdr_2026-02-15.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-15.csv: +40 nuevos, 0 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-16 mode=append rows=9567 file=cdr_2026-02-16.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-16.csv: +9567 nuevos, 0 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-17 mode=append rows=5675 file=cdr_2026-02-17.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-17.csv: +5675 nuevos, 0 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-18 mode=append rows=10846 file=cdr_2026-02-18.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-18.csv: +10846 nuevos, 0 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-19 mode=append rows=10905 file=cdr_2026-02-19.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-19.csv: +10905 nuevos, 0 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-20 mode=append rows=9892 file=cdr_2026-02-20.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-20.csv: +9892 nuevos, 0 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-21 mode=append rows=569 file=cdr_2026-02-21.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-21.csv: +137 nuevos, 432 duplicados | 
+2026-02-24T09:05:52Z | arielortigoza | CSV_SAVE day=2026-02-22 mode=append rows=16 file=cdr_2026-02-22.csv | 
+2026-02-24T09:05:52Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-22.csv: +16 nuevos, 0 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-02-23 mode=append rows=9525 file=cdr_2026-02-23.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-23.csv: +9525 nuevos, 0 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-02-24 mode=append rows=263 file=cdr_2026-02-24.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(6).csv -> cdr_2026-02-24.csv: +58 nuevos, 205 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-01 mode=append rows=53 file=cdr_2026-01-01.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-01.csv: +25 nuevos, 28 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-02 mode=append rows=2186 file=cdr_2026-01-02.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-02.csv: +1077 nuevos, 1109 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-03 mode=append rows=202 file=cdr_2026-01-03.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-03.csv: +100 nuevos, 102 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-04 mode=append rows=30 file=cdr_2026-01-04.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-04.csv: +15 nuevos, 15 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-05 mode=append rows=2150 file=cdr_2026-01-05.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-05.csv: +1063 nuevos, 1087 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-06 mode=append rows=164 file=cdr_2026-01-06.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-06.csv: +80 nuevos, 84 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-07 mode=append rows=2724 file=cdr_2026-01-07.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-07.csv: +1348 nuevos, 1376 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-08 mode=append rows=2357 file=cdr_2026-01-08.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-08.csv: +1170 nuevos, 1187 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-09 mode=append rows=2139 file=cdr_2026-01-09.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-09.csv: +1065 nuevos, 1074 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-10 mode=append rows=127 file=cdr_2026-01-10.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-10.csv: +64 nuevos, 63 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-11 mode=append rows=41 file=cdr_2026-01-11.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-11.csv: +21 nuevos, 20 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-12 mode=append rows=11273 file=cdr_2026-01-12.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-12.csv: +1258 nuevos, 10015 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-13 mode=append rows=9868 file=cdr_2026-01-13.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-13.csv: +1152 nuevos, 8716 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-14 mode=append rows=9980 file=cdr_2026-01-14.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-14.csv: +1084 nuevos, 8896 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-15 mode=append rows=9250 file=cdr_2026-01-15.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-15.csv: +969 nuevos, 8281 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-16 mode=append rows=8159 file=cdr_2026-01-16.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-16.csv: +918 nuevos, 7241 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-17 mode=append rows=862 file=cdr_2026-01-17.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-17.csv: +141 nuevos, 721 duplicados | 
+2026-02-24T09:05:53Z | arielortigoza | CSV_SAVE day=2026-01-18 mode=append rows=36 file=cdr_2026-01-18.csv | 
+2026-02-24T09:05:53Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-18.csv: +16 nuevos, 20 duplicados | 
+2026-02-24T09:05:54Z | arielortigoza | CSV_SAVE day=2026-01-19 mode=append rows=9456 file=cdr_2026-01-19.csv | 
+2026-02-24T09:05:54Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-19.csv: +1014 nuevos, 8442 duplicados | 
+2026-02-24T09:05:54Z | arielortigoza | CSV_SAVE day=2026-01-20 mode=append rows=8374 file=cdr_2026-01-20.csv | 
+2026-02-24T09:05:54Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-20.csv: +939 nuevos, 7435 duplicados | 
+2026-02-24T09:05:54Z | arielortigoza | CSV_SAVE day=2026-01-21 mode=append rows=8445 file=cdr_2026-01-21.csv | 
+2026-02-24T09:05:54Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-21.csv: +948 nuevos, 7497 duplicados | 
+2026-02-24T09:05:54Z | arielortigoza | CSV_SAVE day=2026-01-22 mode=append rows=1809 file=cdr_2026-01-22.csv | 
+2026-02-24T09:05:54Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-22.csv: +900 nuevos, 909 duplicados | 
+2026-02-24T09:05:54Z | arielortigoza | CSV_SAVE day=2026-01-23 mode=append rows=1865 file=cdr_2026-01-23.csv | 
+2026-02-24T09:05:54Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-23.csv: +915 nuevos, 950 duplicados | 
+2026-02-24T09:05:54Z | arielortigoza | CSV_SAVE day=2026-01-24 mode=append rows=1595 file=cdr_2026-01-24.csv | 
+2026-02-24T09:05:54Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-24.csv: +181 nuevos, 1414 duplicados | 
+2026-02-24T09:05:54Z | arielortigoza | CSV_SAVE day=2026-01-25 mode=append rows=28 file=cdr_2026-01-25.csv | 
+2026-02-24T09:05:54Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-25.csv: +14 nuevos, 14 duplicados | 
+2026-02-24T09:05:56Z | arielortigoza | CSV_SAVE day=2026-01-26 mode=append rows=19997 file=cdr_2026-01-26.csv | 
+2026-02-24T09:05:56Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-26.csv: +1193 nuevos, 18804 duplicados | 
+2026-02-24T09:05:56Z | arielortigoza | CSV_SAVE day=2026-01-27 mode=append rows=10176 file=cdr_2026-01-27.csv | 
+2026-02-24T09:05:56Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-27.csv: +1019 nuevos, 9157 duplicados | 
+2026-02-24T09:05:56Z | arielortigoza | CSV_SAVE day=2026-01-28 mode=append rows=10001 file=cdr_2026-01-28.csv | 
+2026-02-24T09:05:56Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-28.csv: +998 nuevos, 9003 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-01-29 mode=append rows=9021 file=cdr_2026-01-29.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-29.csv: +949 nuevos, 8072 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-01-30 mode=append rows=9020 file=cdr_2026-01-30.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-30.csv: +1021 nuevos, 7999 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-01-31 mode=append rows=1170 file=cdr_2026-01-31.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-01-31.csv: +200 nuevos, 970 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-01 mode=append rows=30 file=cdr_2026-02-01.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-01.csv: +0 nuevos, 30 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-02 mode=append rows=7908 file=cdr_2026-02-02.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-02.csv: +0 nuevos, 7908 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-03 mode=append rows=8130 file=cdr_2026-02-03.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-03.csv: +0 nuevos, 8130 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-04 mode=append rows=8065 file=cdr_2026-02-04.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-04.csv: +0 nuevos, 8065 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-05 mode=append rows=8152 file=cdr_2026-02-05.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-05.csv: +0 nuevos, 8152 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-06 mode=append rows=8780 file=cdr_2026-02-06.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-06.csv: +0 nuevos, 8780 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-07 mode=append rows=696 file=cdr_2026-02-07.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-07.csv: +0 nuevos, 696 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-08 mode=append rows=22 file=cdr_2026-02-08.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-08.csv: +0 nuevos, 22 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-09 mode=append rows=7952 file=cdr_2026-02-09.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-09.csv: +0 nuevos, 7952 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-10 mode=append rows=7380 file=cdr_2026-02-10.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-10.csv: +0 nuevos, 7380 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-11 mode=append rows=7432 file=cdr_2026-02-11.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-11.csv: +0 nuevos, 7432 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-12 mode=append rows=7769 file=cdr_2026-02-12.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-12.csv: +0 nuevos, 7769 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-13 mode=append rows=8919 file=cdr_2026-02-13.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-13.csv: +0 nuevos, 8919 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-14 mode=append rows=591 file=cdr_2026-02-14.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-14.csv: +0 nuevos, 591 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-15 mode=append rows=40 file=cdr_2026-02-15.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-15.csv: +0 nuevos, 40 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-16 mode=append rows=9567 file=cdr_2026-02-16.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-16.csv: +0 nuevos, 9567 duplicados | 
+2026-02-24T09:05:57Z | arielortigoza | CSV_SAVE day=2026-02-17 mode=append rows=5675 file=cdr_2026-02-17.csv | 
+2026-02-24T09:05:57Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-17.csv: +0 nuevos, 5675 duplicados | 
+2026-02-24T09:05:58Z | arielortigoza | CSV_SAVE day=2026-02-18 mode=append rows=10846 file=cdr_2026-02-18.csv | 
+2026-02-24T09:05:58Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-18.csv: +0 nuevos, 10846 duplicados | 
+2026-02-24T09:05:58Z | arielortigoza | CSV_SAVE day=2026-02-19 mode=append rows=10905 file=cdr_2026-02-19.csv | 
+2026-02-24T09:05:58Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-19.csv: +0 nuevos, 10905 duplicados | 
+2026-02-24T09:05:58Z | arielortigoza | CSV_SAVE day=2026-02-20 mode=append rows=9892 file=cdr_2026-02-20.csv | 
+2026-02-24T09:05:58Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-20.csv: +0 nuevos, 9892 duplicados | 
+2026-02-24T09:05:58Z | arielortigoza | CSV_SAVE day=2026-02-21 mode=append rows=569 file=cdr_2026-02-21.csv | 
+2026-02-24T09:05:58Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-21.csv: +0 nuevos, 569 duplicados | 
+2026-02-24T09:05:58Z | arielortigoza | CSV_SAVE day=2026-02-22 mode=append rows=16 file=cdr_2026-02-22.csv | 
+2026-02-24T09:05:58Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-22.csv: +0 nuevos, 16 duplicados | 
+2026-02-24T09:05:58Z | arielortigoza | CSV_SAVE day=2026-02-23 mode=append rows=9525 file=cdr_2026-02-23.csv | 
+2026-02-24T09:05:58Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-23.csv: +0 nuevos, 9525 duplicados | 
+2026-02-24T09:05:58Z | arielortigoza | CSV_SAVE day=2026-02-24 mode=append rows=263 file=cdr_2026-02-24.csv | 
+2026-02-24T09:05:58Z | arielortigoza | ARCHIVO_CARGADO | data(5).csv -> cdr_2026-02-24.csv: +0 nuevos, 263 duplicados | 
+2026-02-24T09:06:45Z | arielortigoza | CSV_SAVE day=2026-02-16 mode=append rows=9771 file=cdr_2026-02-16.csv | 
+2026-02-24T09:06:45Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-24.csv -> cdr_2026-02-16.csv: +9525 nuevos, 246 duplicados | 
+2026-02-24T09:06:45Z | arielortigoza | CSV_SAVE day=2026-02-17 mode=append rows=5773 file=cdr_2026-02-17.csv | 
+2026-02-24T09:06:45Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-24.csv -> cdr_2026-02-17.csv: +5773 nuevos, 0 duplicados | 
+2026-02-24T09:06:46Z | arielortigoza | CSV_SAVE day=2026-02-18 mode=append rows=10973 file=cdr_2026-02-18.csv | 
+2026-02-24T09:06:47Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-24.csv -> cdr_2026-02-18.csv: +10973 nuevos, 0 duplicados | 
+2026-02-24T09:06:47Z | arielortigoza | CSV_SAVE day=2026-02-19 mode=append rows=10976 file=cdr_2026-02-19.csv | 
+2026-02-24T09:06:48Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-24.csv -> cdr_2026-02-19.csv: +10976 nuevos, 0 duplicados | 
+2026-02-24T09:06:48Z | arielortigoza | CSV_SAVE day=2026-02-20 mode=append rows=9989 file=cdr_2026-02-20.csv | 
+2026-02-24T09:06:49Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-24.csv -> cdr_2026-02-20.csv: +9987 nuevos, 2 duplicados | 
+2026-02-24T09:06:49Z | arielortigoza | CSV_SAVE day=2026-02-21 mode=append rows=579 file=cdr_2026-02-21.csv | 
+2026-02-24T09:06:49Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-24.csv -> cdr_2026-02-21.csv: +579 nuevos, 0 duplicados | 
+2026-02-24T09:06:49Z | arielortigoza | CSV_SAVE day=2026-02-22 mode=append rows=20 file=cdr_2026-02-22.csv | 
+2026-02-24T09:06:49Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-24.csv -> cdr_2026-02-22.csv: +20 nuevos, 0 duplicados | 
+2026-02-24T09:06:49Z | arielortigoza | CSV_SAVE day=2026-02-23 mode=append rows=9752 file=cdr_2026-02-23.csv | 
+2026-02-24T09:06:50Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-24.csv -> cdr_2026-02-23.csv: +9752 nuevos, 0 duplicados | 
+2026-02-24T09:06:50Z | arielortigoza | CSV_SAVE day=2026-02-24 mode=append rows=319 file=cdr_2026-02-24.csv | 
+2026-02-24T09:06:50Z | arielortigoza | ARCHIVO_CARGADO | cdr_2026-02-24.csv -> cdr_2026-02-24.csv: +317 nuevos, 2 duplicados | 
+{"ts": "2026-02-24T09:17:15.110812+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
+{"ts": "2026-02-24T09:38:44.156960+00:00", "user": "arielortigoza", "action": "LOGIN", "category": "auth", "meta": {}}
+{"ts": "2026-02-24T10:03:38.033275+00:00", "user": "arielortigoza", "action": "LOGOUT", "category": "auth", "meta": {}}
